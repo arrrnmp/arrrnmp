@@ -3,9 +3,8 @@
 Building things that close the gap between people and what they need.
 Sometimes that's software. Sometimes it's a sentence.
 
-Engineer and writer. Building things that close the gap between people and what they need.
-
 → [aaronmompie.com](https://aaronmompie.com)
+→ [aaronmompie.com/projects](https://aaronmompie.com/projects)
 
 ---
 
